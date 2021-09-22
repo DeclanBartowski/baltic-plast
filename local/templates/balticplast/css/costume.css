@@ -1,0 +1,14 @@
+.tqOrderError, .tq-component-error {
+    color: red;
+}
+
+.equipment-footer {
+    display: none;
+}
+
+.equipment-footer[style*="display: block"] {
+    display: flex !important;
+}
+.breadcrumbs div{
+    display: inherit;
+}

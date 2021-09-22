@@ -1,0 +1,9 @@
+<?
+$MESS['TQ_CONTACTS_PARAMS_PHONE'] = 'Phone';
+$MESS['TQ_CONTACTS_PARAMS_EMAIL'] = 'E-Mail';
+$MESS ['TQ_CONTACTS_PARAMS_PATH_TO_PERSONAL'] = 'Link to personal account';
+$MESS ['TQ_CONTACTS_PARAMS_INST'] = 'Instagram';
+$MESS ['TQ_CONTACTS_PARAMS_VK'] = 'Vkontakte';
+$MESS ['TQ_CONTACTS_PARAMS_YT'] = 'YouTube';
+$MESS ['TQ_CONTACTS_PARAMS_FB'] = 'Facebook';
+?>

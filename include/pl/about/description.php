@@ -1,0 +1,1 @@
+Z Kaliningradu w Rosji, metodą termoplastycznego odkształcania i wytłaczania, do produkcji rolet, do budowy i renowacji oraz dla elektryków. Wieloletnie doświadczenie, znajomość technologii i ciągły rozwój przekładają się na wysokiej jakości produkty własnej konstrukcji oraz udoskonalone modele aktualnej oferty rynkowej. 

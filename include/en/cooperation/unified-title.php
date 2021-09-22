@@ -1,0 +1,1 @@
+The site presents prices on EXW Kaliningrad terms and the minimum batch

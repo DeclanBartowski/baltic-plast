@@ -1,0 +1,29 @@
+<?
+$MESS ['PROFILE_DATA_SAVED'] = "Zmiany zostały zapisane";
+$MESS ['LAST_UPDATE'] = "Data aktualizacji:";
+$MESS ['ACTIVE'] = "Aktywny:";
+$MESS ['NAZWA'] = "Nazwa:";
+$MESS ['LAST_NAME'] = "Nazwisko:";
+$MESS ['SECOND_NAME'] = "Drugie imię:";
+$MESS ['EMAIL'] = "E-Mail:";
+$MESS ['MAIN_RESET'] = "Anuluj";
+$MESS ['LOGIN'] = "Logowanie (min. 3 znaki):";
+$MESS ['NEW_PASSWORD'] = "Nowe hasło (min. 6 znaków):";
+$MESS ['NEW_PASSWORD_CONFIRM'] = "Potwierdź nowe hasło:";
+$MESS ['SAVE'] = "Zapisz zmiany";
+$MESS ['RESET'] = "Resetuj";
+$MESS ['LAST_LOGIN'] = "Ostatnie logowanie:";
+$MESS ['NEW_PASSWORD_REQ'] = "Nowe hasło:";
+
+$MESS ['TQ_PERSONAL_DATA_TITLE'] = 'Moje dane kontaktowe';
+$MESS ['TQ_PERSONAL_DATA_EDIT'] = 'Edytuj';
+$MESS ['TQ_PERSONAL_DATA_PHONE'] = 'Telefon kontaktowy';
+$MESS ['TQ_PERSONAL_DATA_ORGANIZATION_NAME'] = 'Nazwa organizacji';
+$MESS ['TQ_PERSONAL_DATA_INN'] = 'INN';
+$MESS ['TQ_PERSONAL_DATA_KPP'] = 'KPP';
+$MESS ['TQ_PERSONAL_DATA_OGRN'] = 'OGRN';
+$MESS ['TQ_PERSONAL_DATA_BIK'] = 'BIK';
+$MESS ['TQ_PERSONAL_DATA_BILL'] = 'P/S';
+$MESS ['TQ_PERSONAL_DATA_GET_NEWS'] = 'Otrzymuj wiadomości i promocje przez e-mail';
+$MESS ['TQ_PERSONAL_DATA_ADDRESS'] = 'Adres dostawy przedmiotu';
+$MESS ['TQ_PERSONAL_DATA_SAVE_CHANGES'] = 'Zapisz zmiany'; 

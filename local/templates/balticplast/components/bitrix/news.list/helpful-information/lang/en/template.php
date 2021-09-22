@@ -1,0 +1,4 @@
+<?
+$MESS ["TQ_HELPFUL_INFORMATION_TITLE"] = "Helpful Information";
+$MESS ["TQ_HELPFUL_INFORMATION_WATCH_ALL"] = "Watch all";
+?>

@@ -1,0 +1,1 @@
+Baltic Plast stawia na partnerskie i długoterminowe relacje. Obwód Kaliningradzki w Rosji jest rozwiniętym węzłem transportowym, a na tym polega elastyczność logistyki. Możemy wysyłać towary na terenie całej Rosji przez centra logistyczne w Moskwie lub bezpośrednio do Ciebie. Koszt frachtu wyliczany jest indywidualnie.

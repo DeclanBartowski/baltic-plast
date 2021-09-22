@@ -1,0 +1,29 @@
+<?
+$MESS ['PROFILE_DATA_SAVED'] = "Changes have been saved";
+$MESS ['LAST_UPDATE'] = "Updated date:";
+$MESS ['ACTIVE'] = "Active:";
+$MESS ['NAME'] = "Name:";
+$MESS ['LAST_NAME'] = "Last Name:";
+$MESS ['SECOND_NAME'] = "Middle name:";
+$MESS ['EMAIL'] = "E-Mail:";
+$MESS ['MAIN_RESET'] = "Cancel";
+$MESS ['LOGIN'] = "Login (min. 3 characters):";
+$MESS ['NEW_PASSWORD'] = "New password (min. 6 characters):";
+$MESS ['NEW_PASSWORD_CONFIRM'] = "Confirm new password:";
+$MESS ['SAVE'] = "Save Changes";
+$MESS ['RESET'] = "Reset";
+$MESS ['LAST_LOGIN'] = "Last login:";
+$MESS ['NEW_PASSWORD_REQ'] = "New password:";
+
+$MESS ['TQ_PERSONAL_DATA_TITLE'] = 'My contact details';
+$MESS ['TQ_PERSONAL_DATA_EDIT'] = 'Edit';
+$MESS ['TQ_PERSONAL_DATA_PHONE'] = 'Contact Phone';
+$MESS ['TQ_PERSONAL_DATA_ORGANIZATION_NAME'] = 'Organization Name';
+$MESS ['TQ_PERSONAL_DATA_INN'] = 'INN';
+$MESS ['TQ_PERSONAL_DATA_KPP'] = 'KPP';
+$MESS ['TQ_PERSONAL_DATA_OGRN'] = 'OGRN';
+$MESS ['TQ_PERSONAL_DATA_BIK'] = 'BIK';
+$MESS ['TQ_PERSONAL_DATA_BILL'] = 'P / S';
+$MESS ['TQ_PERSONAL_DATA_GET_NEWS'] = 'Receive news and promotions by email';
+$MESS ['TQ_PERSONAL_DATA_ADDRESS'] = 'Item delivery address';
+$MESS ['TQ_PERSONAL_DATA_SAVE_CHANGES'] = 'Save Changes'; 

@@ -1,0 +1,9 @@
+<?
+$MESS['TQ_AUTH_TEMPLATE_AUTH_TITLE'] = 'Вход в личный кабинет';
+$MESS['TQ_AUTH_TEMPLATE_AUTH_EMAIL'] = 'Email';
+$MESS['TQ_AUTH_TEMPLATE_AUTH_PASSWORD'] = 'Пароль';
+$MESS['TQ_AUTH_TEMPLATE_AUTH_REMEMBER_ME'] = 'Запомнить меня';
+$MESS['TQ_AUTH_TEMPLATE_AUTH_RESTORE_PASSWORD'] = 'Восстановить пароль';
+$MESS['TQ_AUTH_TEMPLATE_AUTH_LOGIN'] = 'Войти';
+$MESS['TQ_AUTH_TEMPLATE_AUTH_REGISTER'] = 'Зарегистрироваться';
+?>

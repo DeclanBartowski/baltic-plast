@@ -1,0 +1,1 @@
+Strona prezentuje ceny na warunkach EXW Kaliningrad i minimalnej partii 

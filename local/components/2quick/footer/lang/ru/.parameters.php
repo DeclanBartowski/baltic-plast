@@ -1,0 +1,10 @@
+<?
+$MESS['TQ_CONTACTS_PARAMS_PHONE'] = 'Телефон';
+$MESS['TQ_CONTACTS_PARAMS_EMAIL'] = 'E-Mail';
+$MESS['TQ_CONTACTS_PARAMS_PATH_TO_PERSONAL'] = 'Ссылка на личный кабинет';
+$MESS['TQ_CONTACTS_PARAMS_INST'] = 'Instagram';
+$MESS['TQ_CONTACTS_PARAMS_VK'] = 'Вконтакте';
+$MESS['TQ_CONTACTS_PARAMS_YT'] = 'YouTube';
+$MESS['TQ_CONTACTS_PARAMS_FB'] = 'Facebook';
+$MESS['TQ_CONTACTS_PARAMS_STUDIO_LINK'] = 'Ссылка на студию';
+?>

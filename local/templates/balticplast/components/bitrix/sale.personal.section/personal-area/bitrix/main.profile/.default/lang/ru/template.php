@@ -1,0 +1,29 @@
+<?
+$MESS['PROFILE_DATA_SAVED'] = "Изменения сохранены";
+$MESS['LAST_UPDATE'] = "Дата обновления:";
+$MESS['ACTIVE'] = "Активен:";
+$MESS['NAME'] = "Имя:";
+$MESS['LAST_NAME'] = "Фамилия:";
+$MESS['SECOND_NAME'] = "Отчество:";
+$MESS['EMAIL'] = "E-Mail:";
+$MESS['MAIN_RESET'] = "Отмена";
+$MESS['LOGIN'] = "Логин (мин. 3 символа):";
+$MESS['NEW_PASSWORD'] = "Новый пароль (мин. 6 символов):";
+$MESS['NEW_PASSWORD_CONFIRM'] = "Подтверждение нового пароля:";
+$MESS['SAVE'] = "Сохранить изменения";
+$MESS['RESET'] = "Сбросить";
+$MESS['LAST_LOGIN'] = "Последняя авторизация:";
+$MESS['NEW_PASSWORD_REQ'] = "Новый пароль:";
+
+$MESS['TQ_PERSONAL_DATA_TITLE'] = 'Мои контактные данные';
+$MESS['TQ_PERSONAL_DATA_EDIT'] = 'Редактировать';
+$MESS['TQ_PERSONAL_DATA_PHONE'] = 'Контактный телефон';
+$MESS['TQ_PERSONAL_DATA_ORGANIZATION_NAME'] = 'Название организации';
+$MESS['TQ_PERSONAL_DATA_INN'] = 'ИНН';
+$MESS['TQ_PERSONAL_DATA_KPP'] = 'КПП';
+$MESS['TQ_PERSONAL_DATA_OGRN'] = 'ОГРН';
+$MESS['TQ_PERSONAL_DATA_BIK'] = 'БИК';
+$MESS['TQ_PERSONAL_DATA_BILL'] = 'Р/С';
+$MESS['TQ_PERSONAL_DATA_GET_NEWS'] = 'Получать новости и акции по электронной почте';
+$MESS['TQ_PERSONAL_DATA_ADDRESS'] = 'Адрес доставки товара';
+$MESS['TQ_PERSONAL_DATA_SAVE_CHANGES'] = 'Сохранить изменения';

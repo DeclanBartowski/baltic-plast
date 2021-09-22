@@ -1,0 +1,3 @@
+<p> The site presents prices on EXW Kaliningrad terms and the minimum batch. After choosing the required assortment in the required quantity and putting it in the basket, you will receive an invoice to the specified postal address. </p>
+<p> With a minimum batch, the price remains unchanged. In all other cases, we are open to dialogue. <br>
+	We are closer than China, our price is not worse, and logistics are many times faster. We are better priced than European manufacturers, and we are not inferior in quality. And we speak the same language with you! </p>
